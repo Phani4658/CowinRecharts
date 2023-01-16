@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #161625;
+  min-height: 100vh;
+  padding: 2em 4em;
+  color: #fff;
+}
+
+.website-logo {
+  width: 60px;
+}
+
+.website-name {
+  color: #2cc6c6;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 0.8em;
+}
+
+.main-heading {
+  font-size: 1.6em;
+  font-weight: 600;
+}
+
+.failure-img {
+  width: 30%;
+  display: block;
+  margin: auto;
+}
+
+.failure-msg {
+  text-align: center;
+}
+
+.loader-container {
+  text-align: center;
+  margin-top: 8em;
+}
